@@ -33,6 +33,14 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Baghraib&" alt="Abdullah-Baghraib" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-Baghraib&show_icons=true&locale=en&layout=compact" alt="Abdullah-Baghraib" /></p>
 <br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+<br/>
+<br/>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/abdullah_baghrib">
