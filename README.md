@@ -3,7 +3,7 @@
 
 <br/>
 <h1>Hi 👋, I'm Abdullah </h1>
-<p>I believe technology should create meaningful experiences, not just functional solutions. As a dedicated Flutter developer, I am passionate about transforming complex ideas into intuitive and impactful mobile applications.    I thrive on bridging the gap between design and functionality, ensuring that every app is not only visually compelling but also scalable, maintainable, and efficient. My work, including a Quran companion app ("Ayah"), a restaurant management system, and a cinema ticket booking platform, reflects my belief that apps should be more than just tools they should inspire, simplify, and connect, with expertise in API integration, Firebase, and push notifications (broadcast and targeted), I build apps that inspire, connect, and simplify. Rooted in clean architecture and agile methodologies, I continuously refine my craft to deliver seamless, meaningful solutions.</p>
+<p>I believe technology should create meaningful experiences, not just functional solutions. As a dedicated Flutter developer, I am passionate about transforming complex ideas into intuitive and impactful mobile applications.    I thrive on bridging the gap between design and functionality, ensuring that every app is not only visually compelling but also scalable, maintainable, and efficient.</p>
 
 
 
