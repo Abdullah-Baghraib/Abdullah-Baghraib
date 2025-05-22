@@ -36,7 +36,7 @@
 
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/abdullah_baghrib">
+<a href="https://www.buymeacoffee.com/abdullah_baghrib">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
