@@ -29,10 +29,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/abdullah-baghrib" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Baghraib&show_icons=true&locale=en" alt="Abdullah-Baghraib" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Baghraib&" alt="Abdullah-Baghraib" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-Baghraib&show_icons=true&locale=en&layout=compact" alt="Abdullah-Baghraib" /></p>
-<br/><br/>
+
 
 <h2>❤️ Support Me</h2>
 <p><p>
